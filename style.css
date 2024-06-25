@@ -119,3 +119,7 @@ body {
     rgba(95, 88, 219, 1) 100%
   );
 }
+
+input::placeholder {
+  padding-left: 20px;
+}
